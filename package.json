@@ -1,7 +1,7 @@
 {
   "name": "mini-defer",
-  "version": "0.0.2",
-  "description": "Tiny module for creating a deferred",
+  "version": "0.0.3",
+  "description": "Tiny module for creating a deferred with no polyfilling",
   "author": "Sam Gluck <sdgluck@gmail.com>",
   "license": "MIT",
   "repository": {
