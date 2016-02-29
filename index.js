@@ -7,7 +7,9 @@
  * @returns {Object}
  */
 module.exports = function defer () {
-  var res, rej, promise = new Promise(function (resolve, reject) {
+  var res
+  var rej
+  var promise = new Promise(function (resolve, reject) {
     res = resolve
     rej = reject
   })
