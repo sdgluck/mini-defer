@@ -1,6 +1,6 @@
 # mini-defer
 
-> Tiny module for creating a deferred
+> Tiny module for creating a deferred with no polyfilling
 
 Made with ❤ at [@outlandish](http://www.twitter.com/outlandish)
 
