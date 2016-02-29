@@ -1,0 +1,31 @@
+{
+  "name": "mini-defer",
+  "version": "0.0.1",
+  "description": "Tiny module for creating a deferred",
+  "author": "Sam Gluck <sdgluck@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdgluck/mini-defer.git"
+  },
+  "scripts": {
+    "lint": "standard index.js",
+    "prepublish": "npm run lint"
+  },
+  "bugs": {
+    "url": "https://github.com/sdgluck/mini-defer/issues"
+  },
+  "keywords": [
+    "tiny",
+    "mini",
+    "defer",
+    "deferred",
+    "promise"
+  ],
+  "devDependencies": {
+    "standard": "^6.0.5"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
