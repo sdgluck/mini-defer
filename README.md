@@ -26,7 +26,7 @@ Create a deferred.
       eventBasedOperation.onsuccess = deferred.resolve
       eventBasedOperation.onerror = deferred.reject
 
-      return defer.promise
+      return deferred.promise
     }
 
 ## Contributing
