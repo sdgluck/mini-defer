@@ -1,6 +1,6 @@
 {
   "name": "mini-defer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiny module for creating a deferred",
   "author": "Sam Gluck <sdgluck@gmail.com>",
   "license": "MIT",
@@ -10,7 +10,8 @@
   },
   "scripts": {
     "lint": "standard index.js",
-    "prepublish": "npm run lint"
+    "test": "node test.js",
+    "prepublish": "npm run lint && npm test"
   },
   "bugs": {
     "url": "https://github.com/sdgluck/mini-defer/issues"
@@ -23,6 +24,7 @@
     "promise"
   ],
   "devDependencies": {
-    "standard": "^6.0.5"
+    "standard": "^6.0.5",
+    "tape": "^4.4.0"
   }
 }
