@@ -24,8 +24,5 @@
   ],
   "devDependencies": {
     "standard": "^6.0.5"
-  },
-  "standard": {
-    "parser": "babel-eslint"
   }
 }
