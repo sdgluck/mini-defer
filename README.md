@@ -11,18 +11,7 @@ Made with ❤ at [@outlandish](http://www.twitter.com/outlandish)
 
     npm install mini-defer --save
 
-__ES6 Import (w/ Babel)__
-
-    import defer from 'mini-defer'
-
-__CommonJS Require__
-
-    var defer = require('mini-defer')
-
-__Script__
-
-    <script src="/node_modules/mini-defer/index.js"></script>
-    typeof window.miniDefer //=> "Function"
+Exported using UMD pattern, otherwise available on `window` as `miniDefer`.
 
 ## Usage
 
