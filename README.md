@@ -4,7 +4,7 @@
 
 Made with ❤ at [@outlandish](http://www.twitter.com/outlandish)
 
-<a href="http://badge.fury.io/js/serialise-response"><img alt="npm version" src="https://badge.fury.io/js/mini-defer.svg"></a>
+<a href="http://badge.fury.io/js/mini-defer"><img alt="npm version" src="https://badge.fury.io/js/mini-defer.svg"></a>
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Install
